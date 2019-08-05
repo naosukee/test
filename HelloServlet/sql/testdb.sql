@@ -1,5 +1,5 @@
-drop databese if exists testdb;
-create databese testdb;
+drop database if exists testdb;
+create database testdb;
 use testdb;
 create table test_table(
 	user_id int,
