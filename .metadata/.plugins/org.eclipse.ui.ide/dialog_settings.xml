@@ -6,7 +6,10 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value="C:\Users\testuser\Desktop\workspace\workspace-ueno\test"/>
+<<<<<<< HEAD
 			<item value="C:\Users\testuser\Desktop\workspace\workspace-ueno"/>
+=======
+>>>>>>> 9edf445e8e7e11615b259aa57e644ae5a1c03286
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
