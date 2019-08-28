@@ -17,4 +17,3 @@ create table users(
 		qtype varchar(255),
 		body varchar(255)
 	);
-
