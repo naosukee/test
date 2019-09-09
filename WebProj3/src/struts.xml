@@ -21,5 +21,21 @@ method="execute">
 <result name="error">loginError.jsp</result>
 </action>
 
+<<<<<<< HEAD
+=======
+<action name="InquiryAction" class="com.internousdev.webproj3.action.InquiryAction" method="execute">
+<result name="success">inquiry.jsp</result>
+</action>
+<action name="InquiryCompleteAction" class="com.internousdev.webproj3.action.InquiryCompleteAction"
+method="execute">
+<result name="success">inquiryComplete.jsp</result>
+<result name="error">inquiry.jsp</result>
+</action>
+
+<action name="TestAction" class="com.internousdev.webproj3.action.TestAction" method="execute">
+<result name="success">test.jsp</result>
+</action>
+
+>>>>>>> 641accf1859d0ce9f4d092aa63acb4d5eda781a9
 </package>
 </struts>
