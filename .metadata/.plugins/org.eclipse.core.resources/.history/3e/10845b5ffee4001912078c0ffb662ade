@@ -1,0 +1,6 @@
+package com.internousdev.webproj5.dao;
+
+import java.sql.Connection;
+public class LoginDAO {
+
+}
