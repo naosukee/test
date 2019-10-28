@@ -1,7 +1,0 @@
-package com.internousdev.template.util;
-
-
-public class DBConnector {
-	private static String driverName="com.mysql.jdbc.Driver";
-
-}
